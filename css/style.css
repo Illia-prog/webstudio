@@ -1,0 +1,21 @@
+:root{
+--color-light: #ffffff;
+--color-dark: #000000;
+--color-font-main: #212121;
+--color-font-second:  #757575;
+--color-font-third: rgba(255, 255, 255, 0.6);
+--color-brand:  #2196f3;
+}
+
+/* a {
+    color: var(--color-brand);
+}
+span {
+    color: var(--color-dark);
+} */
+.logo {
+    color: var(--color-brand);
+}
+.logo-dark {
+    color: var(--color-dark);
+}
